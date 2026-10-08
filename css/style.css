@@ -70,7 +70,7 @@ a {
 .hero {
     padding: 96px 20px;
     background-color: #2d5a8a;
-    background-image: linear-gradient(rgba(31, 58, 95, 0.78), rgba(31, 58, 95, 0.78)), url("/img/banner-coworking.jpg");
+    background-image: linear-gradient(rgba(31, 58, 95, 0.78), rgba(31, 58, 95, 0.78)), url("../img/banner-coworking.jpg");
     background-size: cover;
     background-position: center;
     color: #ffffff;
